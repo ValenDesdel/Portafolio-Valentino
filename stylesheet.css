@@ -1,0 +1,53 @@
+body
+{
+    background-color: rgb(39, 39, 39);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#datoscontenido
+{
+    width:960px;
+    margin:0 auto;
+    text-align: center 
+}
+h1
+{
+    color: white;
+    text-align: center;
+    size: 350px;
+   
+}
+h2
+{
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 20px rgba(255, 255, 255, 1)
+}
+nav ul li
+{
+    display: inline-block;
+    margin-right:30px;
+    color: rgb(30, 255, 0);
+    cursor: pointer;
+}
+#textoprincipal
+{
+    width: 900px;
+    height: 600px;
+    background-color: black;
+    color: white;
+    margin:0 auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
+}
+a
+{
+    color: rgb(30, 255, 0);
+    font-weight: bold;
+    
+}
+img
+{
+    border-radius: 20px;
+}
