@@ -13,7 +13,7 @@ h1
 {
     color: white;
     text-align: center;
-    size: 350px;
+    
    
 }
 h2
@@ -29,10 +29,10 @@ nav ul li
     color: rgb(30, 255, 0);
     cursor: pointer;
 }
-#textoprincipal
+#home
 {
     width: 900px;
-    height: 600px;
+    height: 390px;
     background-color: black;
     color: white;
     margin:0 auto;
@@ -41,13 +41,49 @@ nav ul li
     padding: 20px;
     box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
 }
+#aboutme
+{
+    width: 900px;
+    height: 390px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
+}
+#skills
+{
+    width: 900px;
+    height: 390px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);  
+}
 a
 {
-    color: rgb(30, 255, 0);
+    color: rgb(43, 255, 0);
     font-weight: bold;
     
 }
 img
 {
     border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+footer
+{
+    text-align: center;
+    color: rgb(30, 255, 0);
+    margin-right:30px;
+   
+   
 }
