@@ -28,6 +28,7 @@ nav ul li
     margin-right:30px;
     color: rgb(30, 255, 0);
     cursor: pointer;
+    list-style-type: circle;
 }
 #home
 {
@@ -58,7 +59,20 @@ nav ul li
 {
     width: 900px;
     height: 390px;
-    background-color: black;
+    background-color: black; 
+    color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);  
+}
+#hobbies
+{
+    width: 900px;
+    height: 390px;
+    background-color: black; 
     color: white;
     margin-top: 50px;
     margin-left: 10px;
